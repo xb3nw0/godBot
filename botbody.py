@@ -1,6 +1,7 @@
 import discord
 import os
 import openai
+import asyncio
 
 # Set your OpenAI API key
 openai.api_key = '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'
